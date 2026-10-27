@@ -1,0 +1,38 @@
+
+body {
+    background-color: pink;
+    color: darkblue;
+}
+
+h1 {
+    color: darkred;
+}
+
+fieldset {
+    width: 500px;
+    background-color: lightyellow;
+}
+
+legend {
+    color: darkgreen;
+}
+
+label {
+    color: darkblue;
+}
+
+
+
+select {
+    margin: 5px;
+}
+
+textarea {
+    background-color: white;
+}
+
+input[type="submit"] {
+    background-color: darkgreen;
+    color: white;
+    padding: 10px;
+}
